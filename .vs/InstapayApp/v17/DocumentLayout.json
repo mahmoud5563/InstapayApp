@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|c:\\users\\m.ward\\desktop\\instapayapp\\instapayapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|solutionrelative:instapayapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|c:\\users\\m.ward\\desktop\\instapayapp\\instapayapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|solutionrelative:instapayapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|c:\\users\\m.ward\\desktop\\instapayapp\\instapayapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|solutionrelative:instapayapp\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|c:\\users\\m.ward\\desktop\\instapayapp\\instapayapp\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|solutionrelative:instapayapp\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|c:\\users\\m.ward\\desktop\\instapayapp\\instapayapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0BF2169-177B-4524-BAAB-641D7E515430}|InstapayApp\\InstapayApp.csproj|solutionrelative:instapayapp\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "InstapayApp\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "InstapayApp\\Controllers\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:53:39.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "InstapayApp\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "InstapayApp\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:26:48.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InstapayApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InstapayApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:13:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "InstapayApp\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "InstapayApp\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:09:47.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "InstapayApp\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\M.Ward\\Desktop\\InstapayApp\\InstapayApp\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "InstapayApp\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:07:18.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
